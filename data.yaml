@@ -11,16 +11,28 @@
   city: Batumi
   url: https://app.locus.ge/suite/organizations
   price: "1 day — 50 GEL, 5 days — 230 GEL, 10 days — 360 GEL, 20 days — 620 GEL, 24/7 — 650 GEL"
+  retrieval_date: 2026-06-10
 - name: LendSpace
   city: Batumi
   url: https://lendspace.ge/
   price: "1 day — 30 GEL, 1 week — 150 GEL, 1 month — 490 GEL"
   access: "10:00-22:00"
+  retrieval_date: 2026-06-10
 - name: Batumi Coworking
   city: Batumi
   url: http://coworking-batumi.com/
   price: "1 day — 30 GEL, 1 week — 120 GEL, 1 month — 370 GEL"
+  retrieval_date: 2026-06-10
 - name: D Block Workspace
   city: Batumi
   url: https://dblock.com/en
   price: "1 day — 40 GEL, 1 month — 500 GEL"
+  retrieval_date: 2026-06-10
+- name: CONA Coworking Space
+  city: Tbilisi
+  url: https://www.conacoworking.com/
+  price: "1 day — 30, 10 days — 170, 1 month — 370 GEL"
+  access: "0:00-00:00"
+  notes:
+    - 10 days and longer memberships include personal access code for 24/7 access.
+  retrieval_date: 2026-06-18
