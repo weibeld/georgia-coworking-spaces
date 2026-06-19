@@ -36,3 +36,12 @@
   notes:
     - 10 days and longer memberships include personal access code for 24/7 access.
   retrieval_date: 2026-06-18
+- name: Terminal Abashidze
+  city: Tbilisi
+  url: https://terminal.center/
+  price: "1 day — 40, 10 days — 220, 1 month — 500 GEL"
+  access: "0:00-00:00"
+  notes:
+    - 1 month membership gives access to all Terminal coworking spaces in Georgia.
+    - 1 month membership includes fixed desk
+  retrieval_date: 2026-06-19
