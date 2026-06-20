@@ -1,7 +1,7 @@
 - name: Terminal Batumi
   city: Batumi
   url: https://terminal.center/
-  price: "1 day — 40, weekend — 50, 10 days — 260, 1 month — 650 GEL"
+  price: "1 day — 40, weekend — 50, 10 days — 260, 1 month — 650"
   access: "9:00-21:00"
   notes:
     - 1 month membership gives access to all Terminal coworking spaces in Georgia.
@@ -10,28 +10,28 @@
 - name: Locus Batumi Coworking
   city: Batumi
   url: https://app.locus.ge/suite/organizations
-  price: "1 day — 50 GEL, 5 days — 230 GEL, 10 days — 360 GEL, 20 days — 620 GEL, 24/7 — 650 GEL"
+  price: "1 day — 50, 5 days — 230, 10 days — 360, 20 days — 620, 24/7 — 650"
   retrieval_date: 2026-06-10
 - name: LendSpace
   city: Batumi
   url: https://lendspace.ge/
-  price: "1 day — 30 GEL, 1 week — 150 GEL, 1 month — 490 GEL"
+  price: "1 day — 30, 1 week — 150, 1 month — 490"
   access: "10:00-22:00"
   retrieval_date: 2026-06-10
 - name: Batumi Coworking
   city: Batumi
   url: http://coworking-batumi.com/
-  price: "1 day — 30 GEL, 1 week — 120 GEL, 1 month — 370 GEL"
+  price: "1 day — 30, 1 week — 120, 1 month — 370"
   retrieval_date: 2026-06-10
 - name: D Block Workspace
   city: Batumi
   url: https://dblock.com/en
-  price: "1 day — 40 GEL, 1 month — 500 GEL"
+  price: "1 day — 40, 1 month — 500"
   retrieval_date: 2026-06-10
 - name: CONA Coworking Space
   city: Tbilisi
   url: https://www.conacoworking.com/
-  price: "1 day — 30, 10 days — 170, 1 month — 370 GEL"
+  price: "1 day — 30, 10 days — 170, 1 month — 370"
   access: "0:00-00:00"
   notes:
     - 10 days and longer memberships include personal access code for 24/7 access.
@@ -39,9 +39,16 @@
 - name: Terminal Abashidze
   city: Tbilisi
   url: https://terminal.center/
-  price: "1 day — 40, 10 days — 220, 1 month — 500 GEL"
+  price: "1 day — 40, 10 days — 220, 1 month — 500"
   access: "0:00-00:00"
   notes:
     - 1 month membership gives access to all Terminal coworking spaces in Georgia.
     - 1 month membership includes fixed desk
   retrieval_date: 2026-06-19
+- name: D Block Workspace @ Stamba
+  city: Tbilisi
+  url: https://dblock.com/en
+  price: "1 day — 40, 1 month — 500, 1 month (afterhours and weekends) 270"
+  access: "0:00-00:00"
+  notes:
+    - "1 month (after hours and weekends) membership includes access on workdays from 18:00 to 09:00 and 24 hours on weekends."
