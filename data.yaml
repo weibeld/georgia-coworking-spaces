@@ -52,3 +52,8 @@
   access: "0:00-00:00"
   notes:
     - "1 month (after hours and weekends) membership includes access on workdays from 18:00 to 09:00 and 24 hours on weekends."
+- name: TWENTYFIVE Coworking
+  city: Tbilisi
+  url: https://test.twentyfive.live/
+  price: "1 day — 30, 1 month — 350"
+  access: "0:00-00:00"
