@@ -1,0 +1,176 @@
+- name: Terminal Batumi
+  first_visit: 2026-06-10
+  access_control: Front desk
+  staff_presence: true
+  staff_details: "Until 21:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Cups
+    - Water boiler
+  free_tea: true
+  day_pass_validity: null
+  other_pros:
+    - Free trial on first visit
+  other_cons:
+    - Limited number of desks
+    - Noisy (humans)
+  personal_rating: 2
+  remarks: Observations apply only to ground floor (second floor not visited).
+
+- name: CONA Coworking Space
+  first_visit: 2026-06-18
+  access_control: Door code
+  staff_presence: false
+  staff_details: Reachable by phone and on WhatsApp (reliable)
+  kitchen_amenities:
+    - Microwave
+    - Cups
+    - Water boiler
+  free_tea: true
+  day_pass_validity: 24h
+  other_pros:
+    - Not many people
+    - Quiet
+  other_cons:
+    - Cold (temperature)
+    - Not possible to autonomously re-enter with day pass (door must be opened remotely by staff)
+  personal_rating: 2
+
+- name: Terminal Abashidze
+  first_visit: 2026-06-19
+  access_control: Front desk
+  staff_presence: true
+  staff_details: Reliable
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Cups
+    - Water boiler
+  free_tea: true
+  day_pass_validity: 24h
+  other_pros:
+    - Large
+  other_cons:
+    - Many desks reserved for fixed desk users
+    - Staff must know selected desk
+    - Many people
+  personal_rating: 2
+  remarks: null
+
+- name: D Block Workspace @ Stamba
+  first_visit: 2026-06-20
+  access_control: App
+  staff_presence: true
+  staff_details: Unreliable
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Toaster
+    - Dishes
+    - Cutlery
+    - Cups
+    - Dishwasher
+    - Water boiler
+  free_tea: true
+  day_pass_validity: "Until 09:00 of next day"
+  other_pros:
+    - Very spacious (three floors)
+  other_cons:
+    - Bar with music (low volume) on main floor of coworking space
+    - App is unreliable for buying day passes and other memberships (payment refusal)
+    - Very dim lighting on main floor
+  personal_rating: 2
+  remarks: Located within Stamba Hotel.
+
+- name: TWENTYFIVE Coworking
+  first_visit: 2026-06-21
+  access_control: Door code
+  staff_presence: false
+  staff_details: Reachable on WhatsApp (reliable)
+  kitchen_amenities:
+    - Dishes
+    - Cutlery
+    - Cups
+    - Water boiler
+  free_tea: true
+  day_pass_validity: 24h
+  other_pros:
+    - Quiet
+    - Not many people
+  other_cons:
+    - Small desks
+  personal_rating: 3
+  remarks: Online payment not working at time of visit, self-payment at credit card device inside coworking space.
+
+- name: Terminal Mozaika
+  first_visit: 2026-06-23
+  access_control: Front desk and key card
+  staff_presence: true
+  staff_details: "Unreliable (nobody at front desk at 17:00)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Toaster
+    - Dishes
+    - Cutlery
+    - Cups
+    - Water boiler
+  free_tea: true
+  day_pass_validity: 24h
+  other_pros:
+    - Large
+  other_cons:
+    - Noisy (humans) due to bad acoustics
+    - No windows or daylight
+  personal_rating: 2
+  remarks: Located within business centre (Mosaic Business Center).
+
+- name: Collider Ramishvili (Vake)
+  first_visit: 2026-06-24
+  access_control: Key card
+  staff_presence: true
+  staff_details: "Until 19:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Water boiler
+    - Cups
+  free_tea: false
+  day_pass_validity: null
+  other_pros: []
+  other_cons:
+    - Noisy (humans)
+    - Many desks reserved for fixed desk users
+    - Many people
+  personal_rating: 1
+  remarks: null
+
+- name: Tsre Coworking
+  first_visit: 2026-06-26
+  access_control: App
+  staff_presence: true
+  staff_details: "Until 13:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Stove
+    - Dishes
+    - Cutlery
+    - Cups
+    - Dishwasher
+    - Water boiler
+  free_tea: true
+  day_pass_validity: "Until 00:00"
+  other_pros:
+    - Quiet
+    - Not many people
+  other_cons:
+    - Sloped floor in some parts due to old building
+    - Many desks reserved for fixed desk users
+  personal_rating: 2
+  remarks: Located in an apartment of an old building.
