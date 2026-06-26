@@ -153,19 +153,19 @@
 
 ## Tsre Coworking
 
-**📅 First Visit Date:** Tuesday, 24 June 2026
+**📅 First Visit Date:** Tuesday, 26 June 2026
 
 **🚪 Access:** App
 
-**💁 Staff presence:** Yes (until 1 PM)
+**💁 Staff presence:** Partial (until 1 PM)
 
-**✏️  Remarks:** Located in an old building apartment with a wooden floor.
+**✏️  Remarks:** Located in an apartment of an old building with wooden floor.
 
 **✅ Pros:**
 
 - Not many people
 - Quiet
-- Fully equipped kitchen (fridge, microwave, stove, dishes cutlery)
+- Fully equipped kitchen (fridge, microwave, stove, dishes cutlery, dishwasher)
 
 **❌ Cons:**
 
