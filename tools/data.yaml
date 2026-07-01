@@ -1,0 +1,170 @@
+- name: Airtable
+  website: https://www.airtable.com/
+  github_url: n/a
+  open_source: false
+  category: super-spreadsheet
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Baserow
+  website: https://baserow.io/
+  github_url: https://github.com/baserow/baserow
+  open_source: true
+  category: super-spreadsheet
+  distribution_self_hosted_service: true
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: NocoDB
+  website: https://nocodb.com/
+  github_url: https://github.com/nocodb/nocodb
+  open_source: true
+  category: super-spreadsheet
+  distribution_self_hosted_service: true
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Teable
+  website: https://teable.ai/
+  github_url: https://github.com/teableio/teable
+  open_source: true
+  category: super-spreadsheet
+  distribution_self_hosted_service: true
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Grist
+  website: https://www.getgrist.com/
+  github_url: https://github.com/gristlabs/grist-core
+  open_source: true
+  category: super-spreadsheet
+  distribution_self_hosted_service: true
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Knack
+  website: https://www.knack.com/
+  github_url: n/a
+  open_source: false
+  category: super-spreadsheet
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: SeaTable
+  website: https://seatable.com/
+  github_url: https://github.com/seatable/seatable
+  open_source: true
+  category: super-spreadsheet
+  distribution_self_hosted_service: true
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Smartsheet
+  website: https://www.smartsheet.com/
+  github_url: n/a
+  open_source: false
+  category: super-spreadsheet
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: AppSheet
+  website: https://appsheet.com/
+  github_url: n/a
+  open_source: false
+  category: super-spreadsheet
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Fibery
+  website: https://fibery.com/
+  github_url: n/a
+  open_source: false
+  category: super-spreadsheet
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Playwright
+  website: https://playwright.dev/
+  github_url: https://github.com/microsoft/playwright
+  open_source: true
+  category: browser-automation
+  distribution_self_hosted_service: false
+  distribution_managed_service: false
+  distribution_library_or_framework: true
+
+- name: Selenium
+  website: https://www.selenium.dev/
+  github_url: https://github.com/seleniumhq/selenium
+  open_source: true
+  category: browser-automation
+  distribution_self_hosted_service: false
+  distribution_managed_service: false
+  distribution_library_or_framework: true
+
+- name: Puppeteer
+  website: https://pptr.dev/
+  github_url: https://github.com/puppeteer/puppeteer
+  open_source: true
+  category: browser-automation
+  distribution_self_hosted_service: false
+  distribution_managed_service: false
+  distribution_library_or_framework: true
+
+- name: Firecrawl
+  website: https://www.firecrawl.dev/
+  github_url: https://github.com/firecrawl/firecrawl
+  open_source: true
+  category: web-scraping
+  distribution_self_hosted_service: true
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Retriever AI
+  website: https://www.rtrvr.ai/
+  github_url: n/a
+  open_source: false
+  category: web-scraping
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Crawl4AI
+  website: n/a
+  github_url: https://github.com/unclecode/crawl4AI
+  open_source: true
+  category: web-scraping
+  distribution_self_hosted_service: false
+  distribution_managed_service: false
+  distribution_library_or_framework: true
+
+- name: ScrapingBee
+  website: https://www.scrapingbee.com/
+  github_url: n/a
+  open_source: false
+  category: web-scraping
+  distribution_self_hosted_service: false
+  distribution_managed_service: true
+  distribution_library_or_framework: false
+
+- name: Scrapy
+  website: https://www.scrapy.org/
+  github_url: https://github.com/scrapy/scrapy
+  open_source: true
+  category: web-scraping
+  distribution_self_hosted_service: false
+  distribution_managed_service: false
+  distribution_library_or_framework: true
+
+- name: Crawlee
+  website: https://crawlee.dev/
+  github_url: https://github.com/apify/crawlee
+  open_source: true
+  category: web-scraping
+  distribution_self_hosted_service: false
+  distribution_managed_service: false
+  distribution_library_or_framework: true
